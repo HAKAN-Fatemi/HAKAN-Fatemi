@@ -12,21 +12,21 @@ Machine Learning Engineer | Data Scientist | Python Developer
 ---
 
 <!-- ================= SKILLS SECTION ================= -->
-
-## 🧠 Languages & Tools
-
-<p align="center">
+<div align="center">
+  
+  <h2>🧠 Languages & Tools</h2>
+  
   <img src="https://skillicons.dev/icons?i=python,r,vscode" width="200"/>
 </p>
 
 ---
 
 <!-- ================= SOCIAL LINKS ================= -->
-
-## 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
+  
+  <h2>🌐 Connect With Me</h2>
   <!-- Instagram -->
+  
   <a href="https://instagram.com/HAKAN_Fatemi" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50"/>
   </a>
@@ -45,4 +45,4 @@ Machine Learning Engineer | Data Scientist | Python Developer
   <a href="https://wa.me/989220630140" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="50"/>
   </a>
-</p>
+</div>
