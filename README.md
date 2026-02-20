@@ -4,7 +4,6 @@
   <img src="HOOKO.IR.png" width="180" alt="HAKAN Logo"/>
 </p>
 
-<h1 align="center">Hi, I'm HAKAN 👋</h1>
 <p align="center">
 Machine Learning Engineer | Data Scientist | Python Developer
 </p>
