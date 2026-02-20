@@ -1,7 +1,7 @@
 <!-- ================= HEADER LOGO ================= -->
 
 <p align="center">
-  <img src="Logo.png" width="100" alt="HAKAN Logo"/>
+  <img src="HOOKO.IR.png" width="180" alt="HAKAN Logo"/>
 </p>
 
 <h1 align="center">Hi, I'm HAKAN 👋</h1>
