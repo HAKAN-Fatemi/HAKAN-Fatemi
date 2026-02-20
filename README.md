@@ -32,7 +32,7 @@ Machine Learning Engineer | Data Scientist | Python Developer
   </a>
   
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/HAKAN_Fatemi" target="_blank">
+  <a href="https://linkedin.com/in/hakan-fatemi" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40"/>
   </a>
   
