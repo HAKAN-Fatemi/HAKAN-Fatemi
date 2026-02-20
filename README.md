@@ -6,19 +6,17 @@
 
 <h1 align="center">Hi, I'm HAKAN 👋</h1>
 <p align="center">
-Python Developer
+Machine Learning Engineer | Data Scientist | Python Developer
 </p>
 
 ---
 
 <!-- ================= SKILLS SECTION ================= -->
 
-## 🧠 Tech Stack
+## 🧠 Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-02569B?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,r,vscode" width="200"/>
 </p>
 
 ---
@@ -28,16 +26,23 @@ Python Developer
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/your_username" target="_blank">
+  <!-- Instagram -->
+  <a href="https://instagram.com/HAKAN_Fatemi" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/your_username" target="_blank">
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/HAKAN_Fatemi" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40"/>
   </a>
-  <a href="https://t.me/your_username" target="_blank">
+  
+  <!-- Telegram -->
+  <a href="https://t.me/HF_0651" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/>
   </a>
-  <a href="https://wa.me/989XXXXXXXXX" target="_blank">
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/989220630140" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40"/>
   </a>
 </p>
