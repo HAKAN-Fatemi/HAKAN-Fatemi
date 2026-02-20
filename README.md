@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm HAKAN 👋</h1>
 <p align="center">
-Machine Learning Engineer | Data Scientist | Python Developer
+Python Developer
 </p>
 
 ---
