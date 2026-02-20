@@ -1,7 +1,7 @@
 <!-- ================= HEADER LOGO ================= -->
 
 <p align="center">
-  <img src="https://your-domain.com/your-logo.png" width="180" alt="HAKAN Logo"/>
+  <img src="Logo.png" width="100" alt="HAKAN Logo"/>
 </p>
 
 <h1 align="center">Hi, I'm HAKAN 👋</h1>
